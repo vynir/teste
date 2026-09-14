@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
+		"name": "Bandeirante",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Paulistânia",
+		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"strength": 25,
+		"rangedStrength": 0,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Conquistador ability","Drill I"],
 		"attackSound": "phasers"
 	}
 ]
