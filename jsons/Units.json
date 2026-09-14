@@ -10,7 +10,7 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Conquistador ability","Drill I"],
+		"promotions": ["Drill III"],
 		"attackSound": "phasers"
 	}
 ]
