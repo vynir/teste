@@ -2,14 +2,13 @@
   {
     "name": "Chácara",
     "uniqueTo": "Paulistânia",
-    "terrainsCanBeBuiltOn": ["Forest","Jungle","Plains","Grassland"],
+    "replaces": "Farm"
     "turnsToBuild": 3,
     "production": 1,
     "food": 2,
     "gold": 1,
     "techRequired": "Calendar",
     "uniques": ["Gives a defensive bonus of [+100]%",
-      "[+1 Food, +2 Production] from [Farm] tiles",
       "[+1 Production]",
       "[+1 Food]",
       "[+1 Culture]",
