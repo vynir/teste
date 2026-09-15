@@ -29,8 +29,8 @@
 		"denounced": "Sua difamação é patética, haverá retribuição!",
 		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
 
-		"outerColor": [84, 44, 23],
-    	"innerColor": [60, 137, 27],
+		"outerColor": [59, 56, 56],
+    	"innerColor": [255, 0, 0],
 		"uniqueName":"Caipira's sage",
 		"unique": ["Free [Worker] appears <upon discovering [Calendar] technology>",
 			"Comment [+1 Production] for [Farm]",
