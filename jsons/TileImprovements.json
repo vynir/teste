@@ -2,7 +2,6 @@
   {
     "name": "Chácara",
     "uniqueTo": "Paulistânia",
-    "replaces": "Farm"
     "turnsToBuild": 3,
     "production": 1,
     "food": 2,
