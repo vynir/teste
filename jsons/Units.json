@@ -5,13 +5,12 @@
 		"uniqueTo": "Paulistânia",
 		"replaces": "Musketman",
 		"movement": 2,
-		"strength": 25,
-		"rangedStrength": 0,
-		"range": 1,
+		"strength": 22,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"unique": "Can build [Chácara]",
-		"promotions": ["Drill I", "Woodsman"],
+		"promotions": ["Woodsman", "Scouting II", "Survivalism II"],
+		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
 ]
