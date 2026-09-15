@@ -3,7 +3,7 @@
 		"name": "Paulistânia",
 		"leaderName": "Tibiriçá",
 		"adjective": ["Paulista"],
-		"startBias": ["Jungle"],
+		"startBias": ["Jungle", "Forest", "River", "Avoid[Desert]", "Avoid[Tundra]", "Avoid[Snow]"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Saudações emboaba!",
