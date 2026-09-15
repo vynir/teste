@@ -2,7 +2,7 @@
   {
     "name": "Chácara",
     "uniqueTo": "Paulistânia",
-   "terrainsCanBeBuiltOn":["Plains","Grassland","Hill"],
+   "terrainsCanBeBuiltOn":["Jungle-Hill","Forest-Hill","Hill"],
     "turnsToBuild": 7,
     "production": 1,
     "food": 2,
