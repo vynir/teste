@@ -9,7 +9,7 @@
     "gold": 1,
     "techRequired": "Calendar",
     "uniques": ["Give defense bonus of [100]%",
-      "Recover [10]% of heath each turn",
+      "Recover [10] of heath each turn",
       "[+1 Production]",
       "[+1 Food]",
       "[+1 Culture]",
