@@ -10,7 +10,8 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Drill III"],
-		"attackSound": "phasers"
+		"unique": "Can build [Chácara]",
+		"promotions": ["Drill I", "Woodsman"],
+		"attackSound": "shot"
 	}
 ]
