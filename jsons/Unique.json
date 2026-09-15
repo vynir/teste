@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Chácara",
+    "uniqueTo": "Paulistânia",
+    "terrainsCanBeBuiltOn": ["Forest","Jungle","Plain","Grassland"],
+    "turnsToBuild": 3,
+    "production": 1,
+    "food": 2,
+    "gold": 1;
+    "techRequired": "Calendar",
+    "uniques": ["Dá bônus de defesa de [50]%",
+      "Recupera [10]% de saúde cada turno",
+      "[+1 Production] for each adjacent [Chácara]",
+      "[+3 Food] depois de descoberta [Fertilizer]",
+      "Can be built outside your borders",
+      "Pillaging this improvement yields approximately [+16 Gold]"]
+  }
+]
