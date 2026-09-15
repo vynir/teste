@@ -32,7 +32,7 @@
 		"outerColor": [181, 181, 181],
     	"innerColor": [255, 0, 0],
 		"uniqueName":"Caipira's sage",
-		"unique": ["Free [Worker] appears <upon discovering [Calendar] technology>",
+		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
 			"[+1 Production] for [Farm]",
 			"[+3 Production] for [Farm] <upon discovering [Fertilizer] technology>",
 			"[+3 Food] for [Farm] <upon discovering [Fertilizer] technology>"],
