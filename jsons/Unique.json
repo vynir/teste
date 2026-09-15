@@ -6,7 +6,7 @@
     "turnsToBuild": 3,
     "production": 1,
     "food": 2,
-    "gold": 1;
+    "gold": 1,
     "techRequired": "Calendar",
     "uniques": ["Dá bônus de defesa de [50]%",
       "Recupera [10]% de saúde cada turno",
