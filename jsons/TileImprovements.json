@@ -13,8 +13,8 @@
       "[+1 Production]",
       "[+1 Food]",
       "[+1 Culture]",
-      "[+3 Food] <after discovering [Fertilizer] technology>",
-      "[+3 Culture] <after discovering [Fertilizer] technology>",
+      "[+3 Food] <upon discovering [Fertilizer] technology>",
+      "[+3 Culture] <upon discovering [Fertilizer] technology>",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+16 Gold]"]
   }
