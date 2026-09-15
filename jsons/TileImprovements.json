@@ -2,7 +2,7 @@
   {
     "name": "Chácara",
     "uniqueTo": "Paulistânia",
-   "terrainsCanBeBuiltOn":["Hill <without[Sheep]>"],
+   "terrainsCanBeBuiltOn":["Hill" "<without[Sheep]>"],
     "turnsToBuild": 7,
     "production": 1,
     "food": 2,
