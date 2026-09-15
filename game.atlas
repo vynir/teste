@@ -19,7 +19,7 @@ BuildingIcons/Holodeck
   offset: 0, 0
   index: -1
 NationIcons/Aliens
-  rotate: false
+  rotate: true
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
