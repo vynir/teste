@@ -8,13 +8,13 @@
     "food": 2,
     "gold": 1,
     "techRequired": "Calendar",
-    "uniques": ["Give defense bonus of [50]%",
+    "uniques": ["Give defense bonus of [100]%",
       "Recover [10]% of heath each turn",
-      "[+1 Production] for each adjacent [Chácara]",
+      "[+1 Production]",
       "[+1 Food]",
       "[+1 Culture]",
-      "[+3 Food] <upon discovering [Fertilizer] technology>",
-      "[+3 Culture] <upon discovering [Fertilizer] technology>",
+      "[+3 Food] <after discovering [Fertilizer] technology>",
+      "[+3 Culture] <after discovering [Fertilizer] technology>",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+16 Gold]"]
   }
