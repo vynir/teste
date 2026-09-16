@@ -1,13 +1,36 @@
 [
     {
-		 "name":"Chacara"
+    "name":"Chacara"
     "uniqueTo": "Paulistânia"
     "terrainsCanBeBuiltOn": ["Hill]",
     "turnsToBuild": 7,
     "food": 2,
-    "techRequired": "Calendar",
-    "uniques": ["Gives a defensive bonus of [+25]%", "[+1 Food, +1 Culture] <upon discovering [Civil Service] technology>", "[+3 Food, +3 Culture] <upon discovering [Fertilizer] technology>",
-      "Can be built outside your borders",
-      "Pillaging this improvement yields approximately [+12 Gold]"],
+    "techRequired": "Calendare",
+    "uniques": ["Gives a defensive bonus of [+25]%", 
+		"[+1 Food, +1 Culture] <upon discovering [Civil Service] technology>", 
+		"[+3 Food, +3 Culture] <upon discovering [Fertilizer] technology>",
+        "Can be built outside your borders",
+        "Pillaging this improvement yields approximately [+12 Gold]"],
+	}
+	{
+		"name": "Darien Gap",
+		"uniqueTo": "Panama",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": -2,
+		"techRequired": "Agriculture",
+		"uniques": [
+			"[+1 Food, +1 Culture] <after discovering [Pottery]>",
+			"[+1 Science, +1 Culture] <after discovering [Scientific Theory]>",
+			"Units ending their turn on this tile take 50 damage when healing",
+			"All units must spend 3 extra movement points when inside the Darien Gap",
+				"Unpillagable",
+				"Can be built just outside your borders",
+				"Great Improvement",
+				"Cannot be built on [Desert] tiles", 
+				"Cannot be built on [Tundra] tiles",
+				"Does not need removal of [Jungle]",
+				"Does not need removal of [Forest]",
+				"Does not need removal of [Marsh]"
+				]
 	}
 ]
