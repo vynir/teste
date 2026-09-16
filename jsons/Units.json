@@ -9,7 +9,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"unique": "Can build [Chácara]",
-		"promotions": ["[Bandeirante] ability"],
+		"promotions": ["Peabiru's road"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
