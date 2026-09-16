@@ -1,4 +1,5 @@
 [
+    {
     "name":"Chacara"
     "uniqueTo": "Paulistânia"
     "terrainsCanBeBuiltOn": ["Hill]",
@@ -10,4 +11,5 @@
       "[+3 Food, +3 Culture] <upon discovering [Fertilizer] technology>",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+12 Gold]"]
+        }
 ]
