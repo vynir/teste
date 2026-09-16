@@ -9,7 +9,7 @@
 		"cost": 150,
 		"requiredTech": "Gunpowder",
 		"unique": "Can build [Chácara]",
-		"promotions": ["[Bandeirante] ability", "Scouting II", "Survivalism II"],
+		"promotions": ["[Bandeirante] ability"],
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
 	}
