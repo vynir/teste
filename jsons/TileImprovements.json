@@ -1,6 +1,6 @@
 [
     {
-    "name":"Chacara"
+		 "name":"Chacara"
     "uniqueTo": "Paulistânia"
     "terrainsCanBeBuiltOn": ["Hill]",
     "turnsToBuild": 7,
@@ -11,17 +11,5 @@
       "[+3 Food, +3 Culture] <upon discovering [Fertilizer] technology>",
       "Can be built outside your borders",
       "Pillaging this improvement yields approximately [+12 Gold]"]
-        },
-    {
-		"name": "Vigilance Post",
-		"uniqueTo": "El Salvador",
-		"techRequired": "Engineering",
-		"replaces": "Fort",
-		"gold": 2,
-		"production": 1,
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Hill","Forest","Jungle"],
-		"turnsToBuild": 9,
-		"uniques": ["Gives a defensive bonus of [25]%", "Adjacent enemy units ending their turn take [10] damage",
-				"Costs [1] [Gold] per turn when in your territory"],
 	}
 ]
