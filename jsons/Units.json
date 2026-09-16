@@ -11,7 +11,7 @@
 		"unique": "Can build [Chácara]",
 		"promotions": ["Peabiru's road"],
 		"obsoleteTech": "Rifling",
-  "upgradeTo": "Rifleman",
+  "upgradesTo": "Rifleman",
 		"attackSound": "shot"
 	}
 ]
