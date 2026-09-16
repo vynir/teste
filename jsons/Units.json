@@ -8,7 +8,7 @@
 		"strength": 22,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"uniques": "Can build [Chacara] improvements in tile",
+		"uniques": "Can build [Chacara] improvements on tiles",
 		"promotions": ["Peabiru's road"],
 		"obsoleteTech": "Rifling",
   "upgradesTo": "Rifleman",
