@@ -1,8 +1,7 @@
 [
   {
     "name": "Peabiru's road",
-    "uniques": ["[+33]% Strength <when fighting in [Jungle] tiles>",
-    "[+33]% Strength <when fighting in [Forest] tiles>",
+    "uniques": [
     "Double movement in [Jungle]",
     "Double movement in [Forest]",
     "Double movement in [Fresh Water]"]
