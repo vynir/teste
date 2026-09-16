@@ -8,7 +8,7 @@
 		"strength": 22,
 		"cost": 150,
 		"requiredTech": "Gunpowder",
-		"uniques": "Can build [Chacara] improvements on tiles",
+		"uniques": "Founds a new city on foreign continents",
 		"promotions": ["Peabiru's road"],
 		"obsoleteTech": "Rifling",
   "upgradesTo": "Rifleman",
