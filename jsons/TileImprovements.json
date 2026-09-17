@@ -5,10 +5,11 @@
     "terrainsCanBeBuiltOn": ["Hill"],
     "turnsToBuild": 7,
     "food": 2,
+    "production": 2
+    "culture": 1
     "techRequired": "Calendar",
     "uniques": ["Gives a defensive bonus of [+25]%", 
-		"[+1 Food, +1 Culture] <after discovering [Civil Service]>", 
-		"[+3 Food, +3 Culture] <after discovering [Fertilizer]>",
+		"[+3 Food, +3 Production, +3 Culture] <after discovering [Fertilizer]>",
         "Can be built outside your borders",
         "Pillaging this improvement yields approximately [+12 Gold]"],
 	}
