@@ -1,6 +1,6 @@
 [
     {
-    "name":"Chacara"
+    "name":"Chácara"
     "uniqueTo": "Paulistânia"
     "terrainsCanBeBuiltOn": ["Hill"],
     "turnsToBuild": 7,
