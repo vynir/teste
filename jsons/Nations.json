@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Paulistânia",
-		"leaderName": "Tibiriçá",
+		"leaderName": "João Ramalho",
 		"adjective": ["Paulista"],
 		"startBias": ["Jungle", "Forest", "River", "Avoid of [Desert]", "Avoid of [Tundra]", "Avoid of [Snow]"],
 		"preferredVictoryType": "Domination",
