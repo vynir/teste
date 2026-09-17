@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Antônio Conselheiro",
+    "production": 4,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 8,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 3,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 3,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 7,
+      "Piety": 8,
+      "Rationalism": 6,
+      "Freedom": 4,
+      "Autocracy": 2,
+      "Order": 7
+    }
+  }
+]
