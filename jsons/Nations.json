@@ -3,7 +3,7 @@
 		"name": "Paulistânia",
 		"leaderName": "João Ramalho",
 		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "Forest", "River", "Avoid of [Desert]", "Avoid of [Tundra]", "Avoid of [Snow]"],
+		"startBias": ["Jungle",
 		"preferredVictoryType": "Cultural",
 		"personality": "João Ramalho",
 
