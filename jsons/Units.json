@@ -15,6 +15,10 @@
   "civilopediaText": [
                         {
                                 "text": "Os antigos conquistadores portugueses, eles saíram de São Paulo de Piratininga para explorar o interior do continente em busca de riquezas, como metais e pedras preciosas e escravos. Por onde passavam fundavam povoados, conquistavam tribos indígenas e se miscigenavam com os nativos."
-		"attackSound": "shot"
+		}
+]
+
+
+"attackSound": "shot"
 	}
 ]
