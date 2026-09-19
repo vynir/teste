@@ -8,10 +8,10 @@
 		"personality": "João Ramalho",
 
 		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra domiou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente?Pois faça",
+		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
 		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você.Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pario contra o bravo paulista",
+		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
+		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
 		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
 		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
 		
@@ -25,7 +25,7 @@
 		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
 		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
 		
-		//"afterPeace": "Que bom, nossa vila precisa de braços fortes, agora poderemos voltar a crescer e explorar.",
+		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
 		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
 		"denounced": "Sua difamação é patética, haverá retribuição!",
 		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
