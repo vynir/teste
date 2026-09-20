@@ -26,7 +26,7 @@ UnitIcons/Bandeirante
   index: -1
 TileSets/AbsoluteUnits/Units/Bandeirante
   rotate: false
-  xy: 89, 90
+  xy: 88, 86
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
