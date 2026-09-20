@@ -24,3 +24,11 @@ UnitIcons/Bandeirante
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Bandeirante
+  rotate: false
+  xy: 160, 133
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+
