@@ -5,7 +5,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 ImprovementIcons/Chácara
   rotate: false
-  xy: 170, 0
+  xy: 173, 0
   size: 100, 100
   orig: 100, 48
   offset: 0, 0
@@ -19,7 +19,7 @@ NationIcons/Paulistânia
   index: -1
 UnitIcons/Bandeirante
   rotate: false
-  xy: 320, 0
+  xy: 332, 0
   size: 100, 100
   orig: 100, 79
   offset: 0, 0
