@@ -3,21 +3,21 @@ size: 428, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Images/chacara
+ImprovmentIcons/Chácara
   rotate: false
   xy: 293, 0
   size: 100, 100
   orig: 100, 48
   offset: 0, 0
   index: -1
-Images/paulistania
+NationIcons/Paulistânia
   rotate: true
   xy: 130, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-Images/bandeirante
+UnitIcons/Bandeirante
   rotate: false
   xy: 428, 0
   size: 100, 100
