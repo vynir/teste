@@ -7,7 +7,7 @@ ImprovementIcons/Chácara
   rotate: false
   xy: 180, 0
   size: 100, 100
-  orig: 100, 48
+  orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Paulistânia
@@ -21,6 +21,6 @@ UnitIcons/Bandeirante
   rotate: false
   xy: 350, 0
   size: 100, 100
-  orig: 100, 79
+  orig: 100, 100
   offset: 0, 0
   index: -1
