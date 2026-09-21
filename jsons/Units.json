@@ -20,7 +20,7 @@
 
 
 "attackSound": "shot"
-	}
+	},
 	{
 		"name": "Estanciero",
 		"unitType": "Civilian",
@@ -31,13 +31,31 @@
 		"cost": 70,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can move after attacking", "Can transform to [Gaucho Rebelde] after discover [Metallurgy] technology"],
-		"promotions": ["Peabiru's road"],
         "civilopediaText": [
                         {
                                 "text": "O trabalhador na lida nos pampas, perito na montaria a cavalo, na lida com os animais e na defesa de sua terra contra invasores e, até mesmo, contra o governo"}
-]
-
-
+],
 "attackSound": "shot"
+	},
+	{
+		"name": "Gaucho Rebelde",
+		"unitType": "Mounted",
+		"uniqueTo": "Rio Grande do Sul",
+		"replaces": "Lancer",
+		"movement": 6,
+		"strength": 28,
+		"cost": 185,
+		"requiredTech": "Metallurgy",
+		"uniques": ["Can move after attacking", "Can transform to [Estanciero]"],
+		"promotions": ["Formation II", "Shock II"],
+		"obsoleteTech": "Combined Arms",
+  "upgradesTo": "Anti-Tank Gun",
+  "civilopediaText": [
+                        {"text": "O rebelde dos pampas, lutando en favor de sua família e terra, contra qualquer um que ameaçe seu estilo de vida, seja castellano, platino ou o própio governo."
+		}
+]                         
+
+
+"attackSound": "horse"
 	}
 ]
