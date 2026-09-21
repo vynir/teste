@@ -72,8 +72,8 @@
 		"denounced": "Tome cuidado hombre, nossa honra vem acima de tudo, vai haver troco!",
 		"declaringfriendship": "Nuestra voluntad é nos juntar con ustedes, pues con nuestras fuerzas juntas, ninguém poderá nos derrotar!",
 
-		"outerColor": [11, 69, 0],
-    	"innerColor": [255, 40, 0],
+		"outerColor": [255, 40, 0],
+    	"innerColor": [11, 69, 0 ],
 		"uniqueName":"The great pampa",
 		"uniques": ["[+2 Food, +2 Production] from every [Pasture]",
 			"[+2 Food, +2 Production] from every [Pasture] <after discovering [Fertilizer]>"],
