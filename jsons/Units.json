@@ -6,7 +6,7 @@
 		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 22,
-		"cost": 50,
+		"cost": 100,
 		"requiredTech": "Gunpowder",
 		"uniques": ["Can move after attacking", "Founds a new city","Can build [Road] improvements on tiles"],
 		"promotions": ["Peabiru's road"],
