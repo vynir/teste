@@ -17,9 +17,9 @@
 	}
 	{
     "name":"Estância"
-    "uniqueTo": "Paulistânia"
+    "uniqueTo": "Rio Grande do Sul"
     "replaces": "Pasture",
-    "terrainsCanBeBuiltOn": ["Land"]
+    "terrainsCanBeBuiltOn": ["Can only be built to improve a resource"]
     "turnsToBuild": 7,
     "food": 1,
     "production": 1
