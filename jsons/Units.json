@@ -21,4 +21,23 @@
 
 "attackSound": "shot"
 	}
+	{
+		"name": "Estanciero",
+		"unitType": "Civilian",
+		"uniqueTo": "Rio Grande do Sul",
+		"replaces": "Worker",
+		"movement": 4,
+		"strength": 10,
+		"cost": 70,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can move after attacking", "Can transform to [Gaucho Rebelde] after discover [Metallurgy] technology"],
+		"promotions": ["Peabiru's road"],
+        "civilopediaText": [
+                        {
+                                "text": "O trabalhador na lida nos pampas, perito na montaria a cavalo, na lida com os animais e na defesa de sua terra contra invasores e, até mesmo, contra o governo"}
+]
+
+
+"attackSound": "shot"
+	}
 ]
