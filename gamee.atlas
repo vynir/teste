@@ -31,4 +31,10 @@ TileSets/AbsoluteUnits/Units/Bandeirante
   orig: 95, 81
   offset: 0, 0
   index: -1
-
+UnitPromotionIcons/Peabiru's road
+rotate: false
+  xy: 328, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
