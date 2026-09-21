@@ -19,6 +19,7 @@
     "name":"Estância"
     "uniqueTo": "Paulistânia"
     "replaces": "Pasture",
+    "terrainsCanBeBuiltOn": ["Land"]
     "turnsToBuild": 7,
     "food": 1,
     "production": 1
