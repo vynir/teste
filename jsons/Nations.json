@@ -46,7 +46,7 @@
 		"name": "Rio Grande do Sul",
 		"leaderName": "Bento Gonçalves",
 		"adjective": ["Gaucho"],
-		"startBias": ["Plains", "Grassland"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		"personality": "Bento Gonçalves",
 
