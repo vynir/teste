@@ -27,7 +27,7 @@
 		"uniqueTo": "Rio Grande do Sul",
 		"replaces": "Worker",
 		"movement": 4,
-		"strength": 10,
+		"strength": 5,
 		"cost": 70,
 		"requiredTech": "Agriculture",
 		"uniques": ["Can move after attacking","Can build [Land] improvements on tiles", "Can transform to [Gaucho Rebelde] <after discovering [Metallurgy]>"],
