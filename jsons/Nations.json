@@ -42,4 +42,47 @@
 			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
 			"Crixás","Pirenópolis"]
 	}
+	{
+		"name": "Rio Grande do Sul",
+		"leaderName": "Bento Gonçalves",
+		"adjective": ["Gaucho"],
+		"startBias": ["Plains", "Grassland"],
+		"preferredVictoryType": "Domination",
+		"personality": "Bento Gonçalves",
+
+		"startIntroPart1": "Saudações nobre sertanista!",
+		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
+		
+		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
+		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
+		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
+		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
+		
+		"neutralHello": "Olá, como posso ajudar vossa mercê?",
+		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
+		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
+		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
+
+		"hateHello": "O que quer, emboaba?",
+		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
+		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
+		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
+		
+		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
+		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
+		"denounced": "Sua difamação é patética, haverá retribuição!",
+		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
+
+		"outerColor": [227, 227, 227],
+    	"innerColor": [54, 6, 6],
+		"uniqueName":"Caipira's sage",
+		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
+   "[+2 Faith] from every [Temple]",
+			"[+1 Culture] from every [Farm]",
+			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
+		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
+			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
+			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
+			"Crixás","Pirenópolis"]
+	}
 ]
