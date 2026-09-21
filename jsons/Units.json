@@ -30,7 +30,7 @@
 		"strength": 10,
 		"cost": 70,
 		"requiredTech": "Agriculture",
-		"uniques": ["Can move after attacking","Can build [Land] improvements on tiles", "Can transform to [Gaucho Rebelde] <after discover [Metallurgy] technology>"],
+		"uniques": ["Can move after attacking","Can build [Land] improvements on tiles", "Can transform to [Gaucho Rebelde] <after discovering [Metallurgy] technology>"],
         "civilopediaText": [
                         {
                                 "text": "O trabalhador na lida nos pampas, perito na montaria a cavalo, na lida com os animais e na defesa de sua terra contra invasores e, até mesmo, contra o governo"}
