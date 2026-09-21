@@ -19,13 +19,14 @@
     "name":"Estância"
     "uniqueTo": "Rio Grande do Sul"
     "replaces": "Pasture",
-    "CanBeBuiltOn": ["Can only be built to improve a resource"]
+    "terrainsCanBeBuiltOn": ["Land"]
     "turnsToBuild": 7,
     "food": 1,
     "production": 1
     "techRequired": "Animal Husbandry",
-    "uniques": ["Gives a defensive bonus of [+25]%",
-  "[+2 Food, +2 Production] <after discovering [Fertilizer]>",
+    "uniques": ["Can only bev built to improve a resource",
+		"Gives a defensive bonus of [+25]%",
+        "[+2 Food, +2 Production] <after discovering [Fertilizer]>",
         "Can be built outside your borders",
         "Pillaging this improvement yields approximately [+10 Gold]"],
 	}
