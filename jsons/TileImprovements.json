@@ -19,7 +19,7 @@
     "name":"Estância"
     "uniqueTo": "Rio Grande do Sul"
     "replaces": "Pasture",
-    "terrainsCanBeBuiltOn": ["Can only be built to improve a resource"]
+    "CanBeBuiltOn": ["Can only be built to improve a resource"]
     "turnsToBuild": 7,
     "food": 1,
     "production": 1
