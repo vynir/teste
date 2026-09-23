@@ -46,7 +46,7 @@
 		"strength": 28,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
-		"uniques": ["Can move after attacking", "Can transform to [Estanciero]"],
+		"uniques": ["Can move after attacking", "Can transform to [Estanciero]", "Consumes 1 [Horses]"],
 		"promotions": ["Formation II", "Shock II"],
 		"obsoleteTech": "Combined Arms",
   "upgradesTo": "Anti-Tank Gun",
