@@ -75,7 +75,7 @@
 		"outerColor": [255, 40, 0],
     	"innerColor": [11, 69, 0 ],
 		"uniqueName":"The great pampa",
-		"uniques": ["[100%] [Horses] resource production",
+		"uniques": ["[+100]% [Horses] resource production",
 			"Starts with [Animal Husbandry]",
 			"[+2 Food, +2 Production] from every [Farm] <with [1] to [6] neighboring [Horse] tiles>"],
 		"cities": ["Piratiní","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
