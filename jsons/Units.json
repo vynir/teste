@@ -42,7 +42,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Rio Grande do Sul",
 		"replaces": "Lancer",
-		"movement": 6,
+		"movement": 5,
 		"strength": 28,
 		"cost": 185,
 		"requiredTech": "Metallurgy",
