@@ -38,3 +38,45 @@ rotate: false
   orig: 100, 100
   offset: 0, 0
   index: -1
+ImprovementIcons/Estância
+  rotate: false
+  xy: 173, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Rio Grande do Sul
+  rotate: true
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Estanciero
+  rotate: false
+  xy: 328, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Estanciero
+  rotate: false
+  xy: 88, 86
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+UnitIcons/Gaucho Rebelde
+  rotate: false
+  xy: 328, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Gaucho Rebelde
+  rotate: false
+  xy: 88, 86
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
