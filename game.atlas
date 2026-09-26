@@ -49,7 +49,7 @@ NationIcons/Rio Grande do Sul
   rotate: true
   xy: 0, 147
   size: 60, 77
-  orig: 100, 100
+  orig: 60, 77
   offset: 0, 0
   index: -1
 UnitIcons/Estanciero
