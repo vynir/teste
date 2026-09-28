@@ -71,7 +71,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","[+2] Sight"],
-		"promotions": ["[Dragão] ability"],
+		"promotions": ["Dragão ability"],
 		"attackSound": "horse"
 	}
 ]
