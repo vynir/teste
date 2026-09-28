@@ -6,5 +6,12 @@
     "Double movement in [Forest]",
     "Double movement in [Fresh Water]",
     "Double movement in [Hill]"]
+  },
+  {
+    "name": "Dragão",
+    "uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
+    "[+33]% Strength <when fighting in [Hill] tiles>",
+    "Double movement in [Forest]",
+    "Double movement in [Hill]"]
   }
 ]
