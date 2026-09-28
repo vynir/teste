@@ -83,15 +83,14 @@
 	}
 	{
 		"name": "Minas Gerais",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
+		"leaderName": "Tiradentes",
+		"adjective": ["Mineiro"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
+		"personality": "Tiradentes",
 
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
+		"startIntroPart1": "Bão dia sinhô!",
+		"startIntroPart2": "Minas Gerais, quem te conhece não esquece jamais. Esta terra desoberta pelos bandeirantes paulistas foi o território mais rico de Portugal. con suas vastas e ricas minas de ouro, ferro e outros minérios. Devido a essa riqueza, a coroa portuguesa fez o possível para sacar o máximo de riquezas da terra por meio de impostos, o que motivou a inconfidência mineira, uma das primeiras tentativas experessivas de independência do Brasil. Porém o movimento foi delatado antes de vir à luz e terminou com um de seus líderes, conhecido como 'Tiradentes', sendo enforcado e esquartejado como exemplo. Tens o que é preciso para tornar esta terra em uma próspera república? É a sua vez de tentar!"
 		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
 		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
 		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
