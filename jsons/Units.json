@@ -57,5 +57,21 @@
 
 
 "attackSound": "horse"
+	},
+	{
+		"name": "Dragões das Minas",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Spain",
+		"movement": 4,
+		"strength": 24,
+		"cost": 135,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","[+2] Sight"],
+		"promotions": ["[Dragão] ability"],
+		"attackSound": "horse"
 	}
 ]
