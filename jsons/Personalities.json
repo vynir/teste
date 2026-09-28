@@ -59,4 +59,34 @@
       "Order": 2
     }
   }
+  {
+    "name": "Tiradentes",
+    "production": 8,
+    "food": 6,
+    "gold": 7,
+    "science": 6,
+    "culture": 8,
+    "happiness": 8,
+    "faith": 7,
+    "military": 3,
+    "aggressive": 2,
+    "declareWar": 2,
+    "commerce": 6,
+    "diplomacy": 7,
+    "loyal": 8,
+    "expansion": 1,
+    "denounceWillingness": 1,
+    "priorities": {
+      "Tradition": 2,
+      "Liberty": 8,
+      "Honor": 2,
+      "Commerce": 8,
+      "Patronage": 1,
+      "Piety": 7,
+      "Rationalism": 4,
+      "Freedom": 8,
+      "Autocracy": 2,
+      "Order": 2
+    }
+  }
 ]
