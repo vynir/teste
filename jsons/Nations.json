@@ -114,7 +114,7 @@
 		"outerColor": [255, 255, 255],
     	"innerColor": [0, 112, 21],
 		"uniqueName":"General Mines",
-		"uniques": ["[+100]%[Luxury resource] resource production from every [Mine]",
+		"uniques": ["[+100]% [Luxury resource] resource production",
    "[+100]% [Iron] resource production",
 			"[+1 Culture] from every [Mine]",
 			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
