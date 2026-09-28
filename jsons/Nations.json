@@ -39,7 +39,7 @@
 			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
 		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
 			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
+			"Paranaíba","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
 			"Crixás","Pirenópolis"]
 	}
 	{
@@ -91,337 +91,33 @@
 
 		"startIntroPart1": "Bão dia sinhô!",
 		"startIntroPart2": "Minas Gerais, quem te conhece não esquece jamais. Esta terra desoberta pelos bandeirantes paulistas foi o território mais rico de Portugal. con suas vastas e ricas minas de ouro, ferro e outros minérios. Devido a essa riqueza, a coroa portuguesa fez o possível para sacar o máximo de riquezas da terra por meio de impostos, o que motivou a inconfidência mineira, uma das primeiras tentativas experessivas de independência do Brasil. Porém o movimento foi delatado antes de vir à luz e terminou com um de seus líderes, conhecido como 'Tiradentes', sendo enforcado e esquartejado como exemplo. Tens o que é preciso para tornar esta terra em uma próspera república? É a sua vez de tentar!"
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
+		"declaringWar": "Ocês passaram do limite agora, é guerra!",
+		"attacked": "Pode vim, que o mineiro não se acovarda.",
+		"defeated": "Os homens vem e vão, como a chuva, más a nossa terra e o nosso espíritode liberdade são chama eterna e jamais se apagarão.",
+		"introduction": "Bão dia, cê é fí de quem? Pra gente é um grande prazer conhecê forasteiros, vem e conta pra nois algumas história da tua terra.",
 		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
+		"neutralHello": "Bão dia sô, como cê tá?",
+		//"neutralLetsHearIt": ["Tô ouvindo.","É o que?","Pode falá."],
+		//"neutralNo": ["Num tenho interesse.","Não!","Vou pensar e já te falo."],
+		//"neutralYes": ["Trêm bão.","Bão de mais.","Idéia boa cê teve agora."],
 
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
+		"hateHello": "O que cê qué?",
+		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fala agora."],
+		//"hateNo": ["Cê tá doido?!","Tô com cara de palhaço?!","Vô contar até três procê picá a mula!"],
+		//"hateYes": ["Tá bom.","Podia ser pior.","Certo..."],
 		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
+		//"afterPeace": "Trem bão, agora nois pode vortá pro trabalho.",
+		"tradeRequest": "A gente tem uns trêm que ocês pode gostá.",
+		"denounced": "Pode vim que o mineiro não faz feio, topo qualquer desafio!",
+		"declaringfriendship": "Uai, que felicidade a gente ser mais que parceiro agora!",
 
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"]
+		"outerColor": [255, 255, 255],
+    	"innerColor": [0, 112, 21],
+		"uniqueName":"General Mines",
+		"uniques": ["[+100]% [Gold, Silver, Cooper] luxury resource production",
+   "[+100]% [Iron] resource production",
+			"[+1 Culture] from every [Mine]",
+			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
+		"cities": ["Vila Rica","São João del Rei","Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
 	}
-	{
-		"name": "Santa Catarina",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"]
-	}
-	{
-		"name": "Santa Catarina",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"]
-	}
-	{
-		"name": "Bahia",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"
-			}
-	{
-		"name": "Confederação do Equador",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"
-			}
-	{
-		"name": "Balaiada",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"
-			}
-	{
-		"name": "Grão Pará",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"
-			}
-	{
-		"name": "Acre",
-		"leaderName": "João Ramalho",
-		"adjective": ["Paulista"],
-		"startBias": ["Jungle", "River"],
-		"preferredVictoryType": "Cultural",
-		"personality": "João Ramalho",
-
-		"startIntroPart1": "Saudações nobre sertanista!",
-		"startIntroPart2": "A grande Paulistânia é uma região extensa que engloba desde o Mato Grosso até o Paraná, desde a fronteria com a Bolívia até o mar. É uma terra explorada pelos Bandeirantes, os conquistadores portugueses que, após se miscigenarem com nativos e africanos, deram origem ao povo que habita esta terra, o caipira, que com seu conhecimento da terra dominou o interior da América do Sul. Vossa mercê tem o que é digno para fazer desta nação grande novamente? Pois faça!",
-		
-		"declaringWar": "Não toleraremos desordeiros e bravios como você. Morte ao emboaba!",
-		"attacked": "Estás brincando? Não serás pário contra o bravo paulista",
-		"defeated": "O julgo de Deus chegou para punirnos por nossa arrogância. Espero que nossos filhos não cometam os mesmos erros que nós.",
-		"introduction": "O nosso ímpeto por glória não conhece limite, iremos além do que qualquer homem chegou, para encontrar o nosso tesouro prometido.",
-		
-		"neutralHello": "Olá, como posso ajudar vossa mercê?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Vou pensar e já te falo."],
-		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
-
-		"hateHello": "O que quer, emboaba?",
-		//"hateLetsHearIt": ["Fala!","Veio levar chumbo?","Fale agora."],
-		//"hateNo": ["Claro que não!","Vossa mercê acha isso engraçado?!","Vou contar até três para você ir embora!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Beleza..."],
-		
-		//"afterPeace": "Que bom, nossa vila precisava de novos ares, agora poderemos voltar a crescer e explorar.",
-		"tradeRequest": "Temos coisas que podem ser de vosso interesse.",
-		"denounced": "Sua difamação é patética, haverá retribuição!",
-		"declaringfriendship": "Vamos nos unir como uma só família, juntos somos mais fortes!",
-
-		"outerColor": [227, 227, 227],
-    	"innerColor": [54, 6, 6],
-		"uniqueName":"Caipira's sage",
-		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
-   "[+2 Faith] from every [Temple]",
-			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
-		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
-			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
-			"Paranaíba","Vila Rica","Sabará","Serro","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
-			"Crixás","Pirenópolis"
-			}
 ]
