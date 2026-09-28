@@ -62,7 +62,7 @@
 		"name": "Dragões das Minas",
 		"unitType": "Mounted",
 		"replaces": "Knight",
-		"uniqueTo": "Spain",
+		"uniqueTo": "Minas Gerais",
 		"movement": 4,
 		"strength": 24,
 		"cost": 135,
