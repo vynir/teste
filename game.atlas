@@ -80,3 +80,25 @@ TileSets/AbsoluteUnits/Units/Gaucho Rebelde
   orig: 77, 65
   offset: 0, 0
   index: -1
+NationIcons/Minas Gerais
+  rotate: true
+  xy: 0, 316
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dragões das Minas
+  rotate: false
+  xy: 345, 316
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Dragão ability
+rotate: false
+  xy: 345, 316
+  size: 81, 81
+  orig: 81, 81
+  offset: 0, 0
+  index: -1
+
