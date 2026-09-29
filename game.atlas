@@ -101,4 +101,11 @@ rotate: false
   orig: 81, 81
   offset: 0, 0
   index: -1
+BuildingIcons/Igreja Barroca
+  rotate: false
+  xy: 173, 316
+  size: 77, 81
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
