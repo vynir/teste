@@ -9,8 +9,8 @@
   },
   {
     "name": "Dragão ability",
-    "uniques": ["[+33]% Strength <when fighting in [Forest] tiles>",
-    "[+33]% Strength <when fighting in [Hill] tiles>",
+    "uniques": ["[+50]% Strength <when fighting in [Forest] tiles>",
+    "[+50]% Strength <when fighting in [Hill] tiles>",
     "Double movement in [Forest]",
     "Double movement in [Hill]"]
   }
