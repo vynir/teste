@@ -69,7 +69,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can upgrade from [Knight]", "Can move after attacking","[+2] Sight"],
+		"uniques": ["Can move after attacking","[+2] Sight"],
 		"promotions": ["Dragão ability"],
 		"attackSound": "horse"
 	}
