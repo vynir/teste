@@ -82,7 +82,7 @@ TileSets/AbsoluteUnits/Units/Gaucho Rebelde
   index: -1
 NationIcons/Minas Gerais
   rotate: true
-  xy: 0, 316
+  xy: 2, 316
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
