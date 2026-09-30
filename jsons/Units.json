@@ -61,7 +61,7 @@
 	{
 		"name": "Dragões das Minas",
 		"unitType": "Mounted",
-		"upgradedFrom": "Knight",
+		"replaces": "Knight",
 		"uniqueTo": "Minas Gerais",
 		"movement": 4,
 		"strength": 24,
