@@ -63,7 +63,7 @@
 		"unitType": "Mounted",
 		"uniqueTo": "Minas Gerais",
 		"movement": 4,
-		"strength": 24,
+		"strength": 25,
 		"cost": 135,
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
