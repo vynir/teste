@@ -108,4 +108,10 @@ BuildingIcons/Igreja Barroca
   orig: 100, 100
   offset: 0, 0
   index: -1
-
+TileSets/AbsoluteUnits/Units/Dragões das Minas
+  rotate: false
+  xy: 102, 410
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
