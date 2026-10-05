@@ -82,4 +82,18 @@
 		"requiredTech": "Agriculture",
 		"uniques": ["Can build [Land] improvements on tiles", "Double movement in [Desert]"],
 	},
+	{
+		"name": "Sertanejo Rebelde",
+		"uniqueTo": "Bahia",
+		"replaces": "Rifleman",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 175,
+		"requiredTech": "Rifling",
+		"promotions": ["Caatinga Lord"],
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "shot"
+	},
 ]
