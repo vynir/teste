@@ -33,8 +33,7 @@
         "civilopediaText": [
                         {
                                 "text": "O trabalhador na lida nos pampas, perito na montaria a cavalo, na lida com os animais e na defesa de sua terra contra invasores e, até mesmo, contra o governo"}
-],
-"attackSound": "horse"
+]
 	},
 	{
 		"name": "Gaucho Rebelde",
@@ -72,5 +71,15 @@
 		"uniques": ["Can move after attacking","[+2] Sight"],
 		"promotions": ["Dragão ability"],
 		"attackSound": "horse"
-	}
+	},
+	{
+		"name": "Vaqueiro Baiano",
+		"unitType": "Civilian",
+		"uniqueTo": "Bahia",
+		"replaces": "Worker",
+		"movement": 4,
+		"cost": 40,
+		"requiredTech": "Agriculture",
+		"uniques": ["Can build [Land] improvements on tiles", "Double movement in [Desert]"],
+	},
 ]
