@@ -115,7 +115,7 @@
     	"innerColor": [0, 112, 21],
 		"uniqueName":"General Mines",
 		"uniques": ["[+100]% [Silver, Gold, Cooper, Salt] resource production <in [Mine] tiles>",
-"Deposits in [Plantation] tiles always provide [2] resources",
+"Deposits in [Mine] tiles always provide [2] resources",
    "[+100]% [Iron] resource production",
 			"[+1 Culture] from every [Mine]",
 			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
