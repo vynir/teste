@@ -120,7 +120,7 @@
 			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
 		"cities": ["Vila Rica","São João del Rei","Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
 	}
-	"name": "Bahia",
+	{"name": "Bahia",
 		"leaderName": "Francisco Sabino",
 		"adjective": ["Baiano"],
 		"startBias": ["Desert, Coast"],
