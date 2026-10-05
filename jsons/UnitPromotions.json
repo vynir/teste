@@ -14,4 +14,9 @@
     "Double movement in [Forest]",
     "Double movement in [Hill]"]
   }
+  {
+  "name": "Caatinga Lord",
+  "uniques": ["[+50]% Strength <when fighting in [Desert] tiles>",
+  "Double moviment in [Desert]"]
+  }
 ]
