@@ -89,4 +89,34 @@
       "Order": 2
     }
   }
+  {
+    "name": "Francisco Sabino",
+    "production": 5,
+    "food": 5,
+    "gold": 7,
+    "science": 5,
+    "culture": 8,
+    "happiness": 8,
+    "faith": 8,
+    "military": 2,
+    "aggressive": 2,
+    "declareWar": 2,
+    "commerce": 8,
+    "diplomacy": 7,
+    "loyal": 5,
+    "expansion": 7,
+    "denounceWillingness": 10,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 2,
+      "Honor": 1,
+      "Commerce": 5,
+      "Patronage": 1,
+      "Piety": 10,
+      "Rationalism": 1,
+      "Freedom": 1,
+      "Autocracy": 2,
+      "Order": 10
+    }
+  }
 ]
