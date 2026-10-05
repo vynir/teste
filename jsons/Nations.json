@@ -154,7 +154,7 @@
 		"outerColor": [8, 0, 255],
     	"innerColor": [222, 217, 217 ],
 		"uniqueName":"The Latifundio",
-		"uniques": ["Deposits in [Plantation] tiles always provide [3] resources",
+		"uniques": ["Deposits in [Farm] tiles always provide [3] resources",
 			"[+3 Food, +3 Production] from every [Farm] <in [Desert] tiles>"],
 		"cities": ["Salvador","Feira de Santana","Vitória da Conquista","Camaçari","Juazeiro","Lauro de Freitas","Itabuna","Ilhéus",
       "Porto Seguro","Barreiras","Jaquié","Alagoinhas","Teixeira de Freitas","Eunápolis","Simões Filho","Paulo Afonso","Luís Eduardo Magalhães","Santo Antônio de Jesus"]
