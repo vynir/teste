@@ -114,10 +114,48 @@
 		"outerColor": [255, 255, 255],
     	"innerColor": [0, 112, 21],
 		"uniqueName":"General Mines",
-		"uniques": ["[+100]% [Luxury] resource production <in [Mine] tiles>",
+		"uniques": ["[+100]% [Silver, Gold, Cooper, Salt] resource production <in [Mine] tiles>",
    "[+100]% [Iron] resource production",
 			"[+1 Culture] from every [Mine]",
 			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
 		"cities": ["Vila Rica","São João del Rei","Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
+	}
+	"name": "Bahia",
+		"leaderName": "Francisco Sabino",
+		"adjective": ["Baiano"],
+		"startBias": ["Desert, Coast"],
+		"preferredVictoryType": "Faith",
+		"personality": "Francisco Sabino",
+
+		"startIntroPart1": "Bom dia meu rei!",
+		"startIntroPart2": "Nossa Bahia já foi a capital desse Brasil, mais especificamente a cidade de Salvador. Aqui era onde grande parte dos escravos da colônia chegavam, para trabalhar nos engenhos de açúcar e algodão. Graças a isso, o nossopovoe cultura tem grande matriz africana, expressada pelo jeito de ser da nossa gente, a capoeira, o axé e a nossa comida e fé. Lutamos pela nossa independencia em diversas revoltas: Conjuração Baiana, Malês e Sabinada; mas nunca conseguimos ser realmente independentes. Por favor, nos ajude a voltar a ser a jóia desse Brasil e expalhe a cultura de nossos ancestrais!"
+		"declaringWar": "Encilharemos nossos cavalos, é hora de pelearmos contra ustedes!",
+		"attacked": "Nuestra liberdade não se entrega, se pelea, conquista e conserva. Nada poderás fazer contra nós!",
+		"defeated": "Não posso creer no que acaba de passar. Pode ter nos derrotado, mas o espírito de Rio Grande e a liberdade gaucha jamais será apagada de nossos corações.",
+		"introduction": "Nuestro povo valoriza mucho a liberdade e a honra, guerrearemos contra quem é contra nós, mas abriremos nuestros braços a quem tiver nobres e justas intenções.",
+		
+		"neutralHello": "Olá, como posso ajudar usted?",
+		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
+		//"neutralNo": ["Definitivamente não.","Não!","Mucho engraçado o que hablaste."],
+		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
+
+		"hateHello": "O quer ahora?",
+		//"hateLetsHearIt": ["Fala!","Veio em busca de pelea?","Fale agora."],
+		//"hateNo": ["Claro que não!","Usted acha isso engraçado?!","Ou usted vai embora ou te espeto com minha lança!"],
+		//"hateYes": ["Me parece bem.","Poderia ser pior.","Muy bien..."],
+		
+		//"afterPeace": "A paz finalmente voltou nos nossos campos, poderemos voltar nuestra atenção à lida outra vez.",
+		"tradeRequest": "Buenas tchê, que te parece o que traigo para ti?",
+		"denounced": "Tome cuidado hombre, nossa honra vem acima de tudo, vai haver troco!",
+		"declaringfriendship": "Nuestra voluntad é nos juntar con ustedes, pues con nuestras fuerzas juntas, ninguém poderá nos derrotar!",
+
+		"outerColor": [8, 0, 255],
+    	"innerColor": [222, 217, 217 ],
+		"uniqueName":"The Latifundio",
+		"uniques": ["[+100]% [Horses] resource production",
+			"Starts with [Animal Husbandry]",
+			"[+2 Food, +2 Production] from every [Farm] <with [1] to [6] neighboring [Horse] tiles>"],
+		"cities": ["Piratiní","Porto Alegre","Rio Grande","Caxias do Sul","Pelotas","Bagé","Alegrete","São Gabriel",
+      "Santa Maria","São Borja","Ijuí","Chuí","Erechim","Canoas","Santo Angelo","Jaguarão","Passo Fundo","Viamão"]
 	}
 ]
