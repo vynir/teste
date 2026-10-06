@@ -15,7 +15,7 @@
 		"name": "Pelourinho",
     "replaces": "Market",
     "uniqueTo": "Bahia",
-		  "Happy": 2,
+		  "Happiness": 2,
     "Gold": 4,
 		  "maintenance": 2,
 		  "hurryCostModifier": 25,
