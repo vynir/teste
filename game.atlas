@@ -82,7 +82,7 @@ TileSets/AbsoluteUnits/Units/Gaucho Rebelde
   index: -1
 NationIcons/Minas Gerais
   rotate: true
-  xy: 2, 316
+  xy: 0, 316
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -117,14 +117,14 @@ TileSets/AbsoluteUnits/Units/Dragões das Minas
   index: -1
 NationIcons/Bahia
   rotate: true
-  xy: 4, 492
+  xy: 6, 494
   size: 71, 67
   orig: 71, 67
   offset: 0, 0
   index: -1
 UnitIcons/Sertanejo Rebelde
   rotate: false
-  xy: 345, 316
+  xy: 287, 484
   size: 81, 81
   orig: 66, 65
   offset: 0, 0
@@ -138,7 +138,7 @@ TileSets/AbsoluteUnits/Units/Sertanejo Rebelde
   index: -1
 UnitIcons/Vaqueiro Baiano
   rotate: false
-  xy: 402, 482
+  xy: 405, 482
   size: 81, 81
   orig: 95, 37
   offset: 0, 0
