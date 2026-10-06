@@ -15,11 +15,11 @@
 		"name": "Pelourinho",
     "replaces": "Market",
     "uniqueTo": "Bahia",
-		"Happy": 2,
-        "Gold": 4,
-		"maintenance": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Currency",
-		"uniques": ["Destroyed when the city is captured", "[+2 Gold] <after discovering [Banking]>"]
+		  "Happy": 2,
+    "Gold": 4,
+		  "maintenance": 2,
+		  "hurryCostModifier": 25,
+	  	"requiredTech": "Currency",
+  		"uniques": ["Destroyed when the city is captured", "[+2 Gold] <after discovering [Banking]>"]
 	}
 ]
