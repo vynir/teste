@@ -114,7 +114,7 @@
 		"outerColor": [255, 255, 255],
     	"innerColor": [0, 112, 21],
 		"uniqueName":"General Mines",
-		"uniques": ["[+100]% [Salt] resource production <in [Mine] tiles>",
+		"uniques": ["[+2 Gold] from [Mine] tiles [in all cities]",
    "[+100]% [Iron] resource production",
 			"[+1 Culture] from every [Mine]",
 			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
@@ -153,7 +153,7 @@
 		"outerColor": [8, 0, 255],
     	"innerColor": [222, 217, 217 ],
 		"uniqueName":"The Latifundio",
-		"uniques": ["[+100]% [Cotton] resource production <in [Plantation] tiles>",
+		"uniques": ["[+2 Happiness] from [Plantation] tiles [in all cities]",
 			"[+3 Food, +3 Production] from every [Farm] <in [Desert] tiles>"],
 		"cities": ["Salvador","Feira de Santana","Vitória da Conquista","Camaçari","Juazeiro","Lauro de Freitas","Itabuna","Ilhéus",
       "Porto Seguro","Barreiras","Jaquié","Alagoinhas","Teixeira de Freitas","Eunápolis","Simões Filho","Paulo Afonso","Luís Eduardo Magalhães","Santo Antônio de Jesus"]
