@@ -139,7 +139,7 @@ TileSets/AbsoluteUnits/Units/Sertanejo Rebelde
 UnitIcons/Vaqueiro Baiano
   rotate: false
   xy: 405, 482
-  size: 81, 81
+  size: 97, 97
   orig: 95, 37
   offset: 0, 0
   index: -1
@@ -153,7 +153,7 @@ TileSets/AbsoluteUnits/Units/Vaqueiro Baiano
 BuildingIcons/Pelourinho
   rotate: false
   xy: 158, 475
-  size: 84, 75
-  orig: 100, 100
+  size: 100, 100
+  orig: 84, 75
   offset: 0, 0
   index: -1
