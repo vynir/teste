@@ -105,7 +105,7 @@
 		"strength": 30,
 		"cost": 175,
 		"requiredTech": "Rifling",
-		"promotions": [,"Great Generals II", "[+30]% Strength <when fighting in [Foreign Land] tiles>"],
+		"promotions": [,"Great Generals II", "Expeditionary Force"],
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
 		"attackSound": "shot"
