@@ -188,8 +188,8 @@
 		"denounced": "Não me provoca não, seu diabo da peste!",
 		"declaringfriendship": "Meu rei, se tem algo que tu e neu tem em comum é que a gente é gente direita, então pora se ajudá!",
 
-		"outerColor": [18, 181, 168],
-    	"innerColor": [161, 171, 2],
+		"outerColor": [3, 132, 143],
+    	"innerColor": [246, 255, 3],
 		"uniqueName":"The Sertão",
 		"uniques": ["[+1 Production, +1 Faith] from every [Desert]",
 			"[+1 Food, +1 Culture] from every [Farm] <in [Desert] tiles>"],
