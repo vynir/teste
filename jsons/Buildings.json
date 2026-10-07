@@ -32,7 +32,7 @@
 		  "maintenance": 1,
 		  "hurryCostModifier": 25,
 	   "percentStatBonus": {"culture": 25},
-	   "requiredTech": "Acoustic",
+	   "requiredTech": "Acoustics",
   		"uniques": ["Destroyed when the city is captured"]
 	}
 ]
