@@ -119,4 +119,34 @@
       "Order": 10
     }
   }
+  {
+    "name": "Frei Caneca",
+    "production": 4,
+    "food": 4,
+    "gold": 5,
+    "science": 6,
+    "culture": 8,
+    "happiness": 7,
+    "faith": 10,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 8,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 5,
+    "denounceWillingness": 8,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 2,
+      "Honor": 5,
+      "Commerce": 4,
+      "Patronage": 1,
+      "Piety": 10,
+      "Rationalism": 1,
+      "Freedom": 1,
+      "Autocracy": 4,
+      "Order": 10
+    }
+  }
 ]
