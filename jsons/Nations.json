@@ -130,32 +130,70 @@
 
 		"startIntroPart1": "Bom dia meu rei!",
 		"startIntroPart2": "Nossa Bahia já foi a capital desse Brasil, mais especificamente a cidade de Salvador. Aqui era onde grande parte dos escravos da colônia chegavam, para trabalhar nos engenhos de açúcar e algodão. Graças a isso, o nossopovoe cultura tem grande matriz africana, expressada pelo jeito de ser da nossa gente, a capoeira, o axé e a nossa comida e fé. Lutamos pela nossa independencia em diversas revoltas: Conjuração Baiana, Malês e Sabinada; mas nunca conseguimos ser realmente independentes. Por favor, nos ajude a voltar a ser a jóia desse Brasil e expalhe a cultura de nossos ancestrais!"
-		"declaringWar": "Encilharemos nossos cavalos, é hora de pelearmos contra ustedes!",
-		"attacked": "Nuestra liberdade não se entrega, se pelea, conquista e conserva. Nada poderás fazer contra nós!",
-		"defeated": "Não posso creer no que acaba de passar. Pode ter nos derrotado, mas o espírito de Rio Grande e a liberdade gaucha jamais será apagada de nossos corações.",
-		"introduction": "Nuestro povo valoriza mucho a liberdade e a honra, guerrearemos contra quem é contra nós, mas abriremos nuestros braços a quem tiver nobres e justas intenções.",
+		"declaringWar": "Não vamo arredá o pé não, é hora da luta!",
+		"attacked": "Tu deve tá doido pra eu dá uma lapada seca meu rei!",
+		"defeated": "Num posso acreditá, depois de tanta luta a gente foi derrotado. Que painho que tá no céu nos receba na sua casa.",
+		"introduction": "Bom dia sinhô, de onde tu vem? Vamo vê se nois pode se levá bem e conversá muito meu rei!",
 		
-		"neutralHello": "Olá, como posso ajudar usted?",
-		//"neutralLetsHearIt": ["Estou ouvindo.","O que disses-te?","Podes começar."],
-		//"neutralNo": ["Definitivamente não.","Não!","Mucho engraçado o que hablaste."],
+		"neutralHello": "Olá, como posso ajudá o sinhô?",
+		//"neutralLetsHearIt": ["Tô ouvindo.","Cumé qui é?","Pode falá agora."],
+		//"neutralNo": ["Definitivamente não.","Não!","O sinhô só pode tá de gozação."],
 		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
 
-		"hateHello": "O quer ahora?",
-		//"hateLetsHearIt": ["Fala!","Veio em busca de pelea?","Fale agora."],
-		//"hateNo": ["Claro que não!","Usted acha isso engraçado?!","Ou usted vai embora ou te espeto com minha lança!"],
-		//"hateYes": ["Me parece bem.","Poderia ser pior.","Muy bien..."],
+		"hateHello": "O que que foi?",
+		//"hateLetsHearIt": ["Fala!","Veio apanhá?","Fala agora."],
+		//"hateNo": ["Claro que não!","Tá me achando com cara de palhaço?!","O sinhô tem duas saídas, ou por onde veio ou direto pro céu!"],
+		//"hateYes": ["Me parece bem.","Podia ser pior.","Tá bom..."],
 		
-		//"afterPeace": "A paz finalmente voltou nos nossos campos, poderemos voltar nuestra atenção à lida outra vez.",
-		"tradeRequest": "Buenas tchê, que te parece o que traigo para ti?",
-		"denounced": "Tome cuidado hombre, nossa honra vem acima de tudo, vai haver troco!",
-		"declaringfriendship": "Nuestra voluntad é nos juntar con ustedes, pues con nuestras fuerzas juntas, ninguém poderá nos derrotar!",
+		//"afterPeace": "Louvado seja nosso sinhô, a paz voltó.",
+		"tradeRequest": "Bom dia meu rei, bora trocá umas mercadoria?",
+		"denounced": "Não me provoca não, seu diabo da peste!",
+		"declaringfriendship": "Meu rei, se tem algo que tu e neu tem em comum é que a gente é gente direita, então pora se ajudá!",
 
 		"outerColor": [8, 0, 255],
     	"innerColor": [222, 217, 217 ],
 		"uniqueName":"The Latifundio",
 		"uniques": ["[+2 Happiness] from [Plantation] tiles [in all cities]",
-			"[+3 Food, +3 Production] from every [Farm] <in [Desert] tiles>"],
+			"[+2 Food, +2 Production] from every [Farm] <in [Desert] tiles>"],
 		"cities": ["Salvador","Feira de Santana","Vitória da Conquista","Camaçari","Juazeiro","Lauro de Freitas","Itabuna","Ilhéus",
       "Porto Seguro","Barreiras","Jaquié","Alagoinhas","Teixeira de Freitas","Eunápolis","Simões Filho","Paulo Afonso","Luís Eduardo Magalhães","Santo Antônio de Jesus"]
+	}
+	{
+		"name": "Confederação do Equador",
+		"leaderName": "Frei Caneca",
+		"adjective": ["Pernambucano"],
+		"startBias": ["Desert", "Coast"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Frei Caneca",
+
+		"startIntroPart1": "Bom dia meu rei!",
+		"startIntroPart2": "Nossa Bahia já foi a capital desse Brasil, mais especificamente a cidade de Salvador. Aqui era onde grande parte dos escravos da colônia chegavam, para trabalhar nos engenhos de açúcar e algodão. Graças a isso, o nossopovoe cultura tem grande matriz africana, expressada pelo jeito de ser da nossa gente, a capoeira, o axé e a nossa comida e fé. Lutamos pela nossa independencia em diversas revoltas: Conjuração Baiana, Malês e Sabinada; mas nunca conseguimos ser realmente independentes. Por favor, nos ajude a voltar a ser a jóia desse Brasil e expalhe a cultura de nossos ancestrais!"
+		"declaringWar": "Não vamo arredá o pé não, é hora da luta!",
+		"attacked": "Tu deve tá doido pra eu dá uma lapada seca meu rei!",
+		"defeated": "Num posso acreditá, depois de tanta luta a gente foi derrotado. Que painho que tá no céu nos receba na sua casa.",
+		"introduction": "Bom dia sinhô, de onde tu vem? Vamo vê se nois pode se levá bem e conversá muito meu rei!",
+		
+		"neutralHello": "Olá, como posso ajudá o sinhô?",
+		//"neutralLetsHearIt": ["Tô ouvindo.","Cumé qui é?","Pode falá agora."],
+		//"neutralNo": ["Definitivamente não.","Não!","O sinhô só pode tá de gozação."],
+		//"neutralYes": ["Muito bom.","Bom de mais.","Gostei da idéia."],
+
+		"hateHello": "O que que foi?",
+		//"hateLetsHearIt": ["Fala!","Veio apanhá?","Fala agora."],
+		//"hateNo": ["Claro que não!","Tá me achando com cara de palhaço?!","O sinhô tem duas saídas, ou por onde veio ou direto pro céu!"],
+		//"hateYes": ["Me parece bem.","Podia ser pior.","Tá bom..."],
+		
+		//"afterPeace": "Louvado seja nosso sinhô, a paz voltó.",
+		"tradeRequest": "Bom dia meu rei, bora trocá umas mercadoria?",
+		"denounced": "Não me provoca não, seu diabo da peste!",
+		"declaringfriendship": "Meu rei, se tem algo que tu e neu tem em comum é que a gente é gente direita, então pora se ajudá!",
+
+		"outerColor": [18, 181, 168],
+    	"innerColor": [161, 171, 2],
+		"uniqueName":"The Sertão",
+		"uniques": ["[+1 Production, +1 Faith] in [Desert] tiles",
+			"[+1 Food, +1 Culture] from every [Farm] <in [Desert] tiles>"],
+		"cities": ["Recife","Fortaleza","João Pessoa","Natal","Jaboatão dos Guararapes","Caruaru","Petrolina","Campina Grande",
+      "Patos","Guarabira","Currais","Açu","Caicó","Mossoró","Crato","Iguatu","Icó","Sobral"]
 	}
 ]
