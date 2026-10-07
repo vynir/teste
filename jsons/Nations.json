@@ -191,7 +191,7 @@
 		"outerColor": [18, 181, 168],
     	"innerColor": [161, 171, 2],
 		"uniqueName":"The Sertão",
-		"uniques": ["[+1 Production, +1 Faith] in [Desert] tiles",
+		"uniques": ["[+1 Production, +1 Faith] from every [Desert]",
 			"[+1 Food, +1 Culture] from every [Farm] <in [Desert] tiles>"],
 		"cities": ["Recife","Fortaleza","Maceió","Aracaju","Natal","João Pessoa","Jaboatão dos Guararapes","Caruaru","Petrolina","Campina Grande",
       "Patos","Guarabira","Currais","Açu","Caicó","Mossoró","Crato","Iguatu","Icó","Sobral","São Cristóvão"]
