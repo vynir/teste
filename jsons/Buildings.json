@@ -23,4 +23,16 @@
 	   "requiredTech": "Currency",
   		"uniques": ["Destroyed when the city is captured", "[+2 Gold] <after discovering [Banking]>"]
 	}
+	{
+		"name": "Praça de São João",
+    "replaces": "Opera House",
+    "uniqueTo": "Confederação do Equador",
+		  "happiness": 2,
+    "culture": 5,
+		  "maintenance": 1,
+		  "hurryCostModifier": 25,
+	   "percentStatBonus": {"culture": 25},
+	   "requiredTech": "Acoustic",
+  		"uniques": ["Destroyed when the city is captured"]
+	}
 ]
