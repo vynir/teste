@@ -17,7 +17,7 @@
     "uniqueTo": "Bahia",
 		  "happiness": 2,
     "gold": 4,
-		  "maintenance": 2,
+		  "maintenance": 0,
 		  "hurryCostModifier": 25,
 	   "percentStatBonus": {"gold": 25},
 	   "requiredTech": "Currency",
