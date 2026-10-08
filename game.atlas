@@ -157,3 +157,24 @@ BuildingIcons/Pelourinho
   orig: 84, 75
   offset: 0, 0
   index: -1
+NationIcons/Confederação do Equador
+  rotate: true
+  xy: 6, 494
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
+UnitIcons/Sertanejo Rebelde
+  rotate: false
+  xy: 287, 484
+  size: 81, 81
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+BuildingIcons/Praça de São João
+  rotate: false
+  xy: 158, 475
+  size: 100, 100
+  orig: 84, 75
+  offset: 0, 0
+  index: -1
