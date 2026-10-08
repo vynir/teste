@@ -9,7 +9,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"requiredTech": "Philosophy",
-		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+2 Culture] <after discovering [Acoustic]>"]
+		"uniques": ["Only available <when religion is enabled>", "Destroyed when the city is captured", "[+1 Culture] <after discovering [Acoustics]>"]
 }
 	{
 		"name": "Pelourinho",
@@ -21,7 +21,7 @@
 		  "hurryCostModifier": 25,
 	   "percentStatBonus": {"gold": 25},
 	   "requiredTech": "Currency",
-  		"uniques": ["Destroyed when the city is captured", "[+2 Gold] <after discovering [Banking]>"]
+  		"uniques": ["Destroyed when the city is captured", "[+1 Gold] <after discovering [Banking]>"]
 	}
 	{
 		"name": "Praça de São João",
