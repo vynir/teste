@@ -36,7 +36,7 @@
 		"uniques": ["Free [Worker] appears <upon discovering [Calendar] technology>",
    "[+2 Faith] from every [Temple]",
 			"[+1 Culture] from every [Farm]",
-			"[+2 Culture] from every [Farm] <after discovering [Fertilizer]>"],
+			"[+1 Culture] from every [Farm] <after discovering [Fertilizer]>"],
 		"cities": ["São Vicente","São Paulo de Piratininga","Santo André","Santana de Parnaíba","Itu","Mogi das Cruzes","Jundiaí","Taubaté","Guaratinguetá",
 			"Sorocaba","São Roque","Cotia","Atibaia","Jacareí","Campinas","Itapeva","Piracicaba","Vila Boa de Goiáz","Cuiabá",
 			"Paranaíba","Pitangui","Paranaguá","Castro","Antonina","Traíras","Jaraguá",
@@ -114,10 +114,10 @@
 		"outerColor": [255, 255, 255],
     	"innerColor": [0, 112, 21],
 		"uniqueName":"General Mines",
-		"uniques": ["[+2 Gold] from [Mine] tiles [in all cities]",
+		"uniques": ["[+1 Gold] from [Mine] tiles [in all cities]",
    "[+100]% [Iron] resource production",
 			"[+1 Culture] from every [Mine]",
-			"[+2 Culture] from every [Mine] <after discovering [Chemistry]>"],
+			"[+1 Culture] from every [Mine] <after discovering [Chemistry]>"],
 		"cities": ["Vila Rica","São João del Rei","Tiradentes","Mariana","Sabará","Diamantina","Congonhas","Barbacena","Caeté","Itabira","Catas Altas","Ouro Branco","Lavras Novas"],
 	}
 	{
